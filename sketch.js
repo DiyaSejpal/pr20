@@ -6,7 +6,7 @@ var mouseIMG1 , mouseIMG2 , mouseIMG3;
 
 function preload() {
     //load the images here
-   bgIMG = loadImage("images/garden.png");
+   bgIMG = loadImage("garden.png");
 
    catIMG1 = loadAnimation("tomOne.png");
    catIMG2 = loadAnimation("tomTwo.png","tomThree.png");
